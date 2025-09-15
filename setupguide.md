@@ -23,9 +23,9 @@
      *Security group: create/select one (we’ll edit later).
      *Create database → wait for Available.
 
-     👉 Note the RDS endpoint (example: javacode-rds-project.cb0y2csmwusj.ap-south-1.rds.amazonaws.com).
-     <img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/369effda-66a3-4c3d-8ecd-4f137c4175e3" />
-     <img width="1875" height="918" alt="image" src="https://github.com/user-attachments/assets/f2e0de61-fa0f-4d64-b43a-578c35a113ac" />
+👉 Note the RDS endpoint (example: javacode-rds-project.cb0y2csmwusj.ap-south-1.rds.amazonaws.com).
+<img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/369effda-66a3-4c3d-8ecd-4f137c4175e3" />
+<img width="1875" height="918" alt="image" src="https://github.com/user-attachments/assets/f2e0de61-fa0f-4d64-b43a-578c35a113ac" />
 
 
      
